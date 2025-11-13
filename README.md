@@ -34,7 +34,7 @@ for i in range(len(X)):
   plt.show()
 ```
 ## Output
-<img width="699" height="538" alt="Screenshot 2025-11-13 103129" src="https://github.com/user-attachments/assets/9c9f8328-b0f1-4c6f-be54-8f4624e93e26" />
+![alt text](<Screenshot 2025-11-13 103129.png>)
 
 
 
